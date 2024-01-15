@@ -1,0 +1,1 @@
+CS112 is a Computer Science class at Boston Univeristy. The course focuses on Java Programming and Data Structures including linked lists, stacks, and queues. This repository contains the problem sets from the course which consists of 8 projects focusing on those topics. 
